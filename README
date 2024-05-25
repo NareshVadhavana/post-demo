@@ -1,0 +1,7 @@
+SETUP STEPS
+
+Clone repo
+Change .env file accourding your need
+run commands
+npm install
+npm run dev
